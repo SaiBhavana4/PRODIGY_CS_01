@@ -1,4 +1,4 @@
-#Caesar Cipher Program
+# Caesar Cipher Program
 
 This repository contains a simple Python implementation of the Caesar Cipher. The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted by a fixed number of positions down the alphabet. This script allows users to encrypt and decrypt messages using the Caesar Cipher technique.
 
