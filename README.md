@@ -13,7 +13,9 @@ The Caesar Cipher works by shifting each letter of the input message by a fixed 
 For example, with a shift of 3:
 
 Plaintext: HELLO
+
 Encrypted: KHOOR
+
 The program allows users to:
 
 Choose between encryption or decryption.
